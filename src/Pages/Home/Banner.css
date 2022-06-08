@@ -1,0 +1,15 @@
+ .parent img {
+    /* height: 100%; */
+     width: 60%; 
+
+ }
+
+ .container {
+    position: relative;
+   
+  }
+  .top-left{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+  }
