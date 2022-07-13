@@ -1,0 +1,39 @@
+[
+    {
+        "id":"1",
+        "headline":"Launcing Our Manage Software",
+        "cat":"Technology",
+        "des":"Launched is our first Contactless Software. State Minister of ICT Division Mr. Zunaid Ahmed Palak(MP) Zunaid Ahmed Palak Sir. MD of Bangladesh Hi-Tech Park Authority was also present.Note: The web and app versions of our software are launched simultaneously. Hon'ble Minister and MD Sir look at the beginning and end of our software and discuss various issues.Thank You ICT Division & Bangladesh Hi-Tech Park Authority.We are team Decoders Squad",
+        "img":"https://i.ibb.co/5vGKQzW/273029892-2725319991104229-8687725350544131903-n.jpg"
+    },
+    {
+        "id":"2",
+        "headline":"Our First Agreement with restaurant",
+        "cat":"Business",
+        "des":"Our First agreement done with a prestigious restaurent called. Manage software is a contactless modern solution for your business. You can can order food with just scanning a qr code that is place on the table. No need to call waiter. You can also keep your customer records and data for future predictions.",
+        "img":"https://i.ibb.co/G3L9CdB/agrement-n.png"
+    },
+    {
+        "id":"3",
+        "headline":"Winning moment of HULT Prize GUB",
+        "cat":"Technology",
+        "des":" Decoders Squad  a Team of CSE Under the mentorship of CSE Alumni of GUB Wins Hult Prize  Green University of Bangladesh.The department of Computer Science and Engineering (CSE) of Green University of Bangladesh (GUB) is proudly announcing that the Decoders Squad — a team of CSE has been awarded as the Champion in the prestigious Hult-Prize GUB.The current team of  Decoders Squad  consists of 4 members of GUB named Shaysab Azad (CSE-161002036)Razibur Rahman (CSE-161002054)Md. Rahul Reza (CSE-191002067) Amirul Islam (EEE-191001088)Their project “IoT based air quality monitoring system” can monitor the Air Quality over a web server using the Internet and can trigger an alarm when the air quality goes down beyond a threshold level.",
+        "img":"https://i.ibb.co/f17d02t/hault-n.jpg"
+    }, 
+    
+    {
+        "id":"4",
+        "des":"Financial Solution",
+        "img":"https://i.ibb.co/Bq0SNd9/3.jpg"
+    },
+    {
+        "id":"5",
+        "des":"Financial Solution",
+        "img":"https://i.ibb.co/N2vvjks/4.jpg" 
+    },
+    {
+        "id":"6",
+        "des":"Financial Solution",
+        "img":"https://i.ibb.co/ygkSYYk/5.jpg"
+    }
+]

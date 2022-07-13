@@ -2,7 +2,7 @@ import React from "react";
 
 const Aboutus = () => {
   return (
-    <div className="hero min-h-screen bg-base-100">
+    <div className="hero  bg-base-100">
       <div className="hero-content flex-col lg:flex-row-reverse justify-between">
         <img
           src="https://i.ibb.co/6mkSSP3/03.jpg"
