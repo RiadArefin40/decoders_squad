@@ -23,17 +23,23 @@
     
     {
         "id":"4",
-        "des":"Financial Solution",
+        "headline":"Nasa Space Apps Challenge",
+        "cat":"Competition",
+        "des":"Alhamdulillah, We are the team Decoders Squad  going to be a part of  another Challenge of Nasa Space Apps Challenge. Keep us in your prayers, So that we can win that competition",
         "img":"https://i.ibb.co/Bq0SNd9/3.jpg"
     },
     {
         "id":"5",
-        "des":"Financial Solution",
-        "img":"https://i.ibb.co/N2vvjks/4.jpg" 
+        "headline":"APICTA Awards 20/21",
+        "cat":"Competition",
+        "des":"We are happy to share that we have been nominated for APICTA Awards 20/21 which will be held on December 15, 2021 (Host country: Malaysia). This time we will compete with 15 countries for Bangladesh. Pray for us so that I can achieve another #Award for Bangladesh.",
+        "img":"https://i.ibb.co/XxnJyvL/apicta-Award-sizing.png" 
     },
     {
         "id":"6",
-        "des":"Financial Solution",
-        "img":"https://i.ibb.co/ygkSYYk/5.jpg"
+        "headline":"BASIS National ICT Award",
+        "cat":"Award",
+        "des":"Decoders Squad” wins Basis National ICT Awards 2020 We are proudly announcing that the Team of “Decoders squad” has been awarded as the Champion in the prestigious BASIS National ICT Award in the Category: Industrial (HC-I) and Subcategory: Sustainability and Environment with the project title of IoT based air pollution monitoring system.",
+        "img":"https://i.ibb.co/R38N3dM/Basis-Ict-Award-sizing1.jpg"
     }
 ]
