@@ -6,6 +6,7 @@ import BusinessSumary from './BusinessSumary';
 import ContactUs from './ContactUs';
 import Products from './Products';
 import Reviews from './Reviews';
+import WhyUs from './WhyUs';
 
 const Home = () => {
     return (
@@ -16,8 +17,9 @@ const Home = () => {
             <marquee behavior="" direction="">Read Our blog section for more articles. You can also get latest updates about our recent events and upcoming events and product news there.</marquee>
             </div>
              <Products></Products>
+             <WhyUs></WhyUs>
 
-            <h1 className='text-3xl text-center'>BLOGS</h1>
+            <h1 className='text-3xl text-center py-10'> LATEST BLOGS</h1>
             <div className='bg-yellow-300 p-3 m-3'>
             <marquee behavior="" direction="">Read Our blog section for more articles. You can also get latest updates about our recent events and upcoming events and product news there.</marquee>
             </div>

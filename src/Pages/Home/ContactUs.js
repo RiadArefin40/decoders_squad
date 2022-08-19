@@ -3,10 +3,10 @@ import React from 'react';
 const ContactUs = () => {
     return (
         <div>
-            <div class="mx-20 my-20 bg-base-100">
+            <div class="lg:mx-20 my-20 bg-base-100">
   <div class="hero-content flex justify-around mt-20 ">
    
-    <div class="card w-1/2   shadow-2xl bg-base-100">
+    <div class="card w-2/3   shadow-2xl bg-base-100">
       <div class="card-body">
       <div class="form-control">
           <label class="label">

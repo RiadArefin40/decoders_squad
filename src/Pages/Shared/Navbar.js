@@ -9,25 +9,21 @@ const Navbar = () => {
         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
       </label>
       <ul tabindex="0" className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
-        <li><a>Item 1</a></li>
-        <li tabindex="0">
-          <a className="justify-between">
-            Parent
-            <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"/></svg>
-          </a>
-          <ul className="p-2">
-            <li><a>Submenu 1</a></li>
-            <li><a>Submenu 2</a></li>
-          </ul>
-        </li>
-        <li><a>Item 3</a></li>
+      <Link to="/home"><li><a>Home</a></li></Link>
+       
+      
+        <Link to="/blogs"><li><a>Blog</a></li></Link>
       </ul>
     </div>
    
-    <Link to="/home"> <a className="btn btn-ghost normal-case text-xl "> <span className=' text-4xl  font-mono'>DECODERS  SQUAD</span> </a></Link>
+    <Link to="/home"> <a className="btn btn-ghost normal-case text-xl "> 
+    <img className='w-28 h-16' src="https://i.ibb.co/35bVNKm/Decoders-Squad-logo-1.png" alt="" />
+    
+    
+     </a></Link>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal p-5 font-bold text-lg  text-teal-700">
+    <ul className="menu menu-horizontal  font-bold text-lg  text-teal-700">
       <Link to="/home"><li><a>Home</a></li></Link>
       <li><a>About Us</a></li>
       <Link to="/blogs"><li><a>Blog</a></li></Link>
