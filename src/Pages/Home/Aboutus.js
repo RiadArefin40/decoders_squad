@@ -6,7 +6,7 @@ const Aboutus = () => {
       <div className="hero-content flex-col lg:flex-row-reverse justify-between">
         <img
           src="https://i.ibb.co/6mkSSP3/03.jpg"
-          className="max-w-sm rounded-lg shadow-2xl"
+          class="lg:max-w-lg lg:p-12 rounded-lg shadow-2xl"
         />
         <div className="w-1/2">
           <h2 className="text-2xl font-bold text-teal-400 mb-5"> About Us</h2>

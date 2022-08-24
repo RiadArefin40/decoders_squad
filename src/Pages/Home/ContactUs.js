@@ -3,10 +3,10 @@ import React from 'react';
 const ContactUs = () => {
     return (
         <div>
-            <div class="lg:mx-20 my-20 bg-base-100">
+            <div class="lg:mx-40 sm:mx-10 my-20 bg-base-100">
   <div class="hero-content flex justify-around mt-20 ">
    
-    <div class="card w-2/3   shadow-2xl bg-base-100">
+    <div class="card w-full   shadow-2xl bg-base-100">
       <div class="card-body">
       <div class="form-control">
           <label class="label">
@@ -24,7 +24,7 @@ const ContactUs = () => {
           <label class="label">
             <span class="label-text">Message</span>
           </label>
-          <textarea class="textarea textarea-bordered" placeholder="Type Your Message"></textarea>
+          <textarea class="textarea textarea-bordered"  rows="6" placeholder="Type Your Message"></textarea>
           <label class="label">
           
           </label>

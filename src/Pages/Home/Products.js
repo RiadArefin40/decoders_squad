@@ -11,7 +11,7 @@ const Products = () => {
         .then(data=>setProducts(data))
     },[])
     return (
-        <div className='grid lg:grid-cols-3 gap-2 mx-20 my-20'>
+        <div className='grid lg:grid-cols-3 gap-2 lg:mx-20 mx-8 my-20'>
             {products.map(product=> <Product key={product.id} product={product}></Product>)}
         </div>
     );

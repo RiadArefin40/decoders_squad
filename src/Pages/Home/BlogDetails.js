@@ -23,7 +23,7 @@ const BlogDetails =() => {
     return (
       <div class="hero min-h-screen bg-base-200 px-10 ">
       <div class="hero-content flex-col lg:flex-row">
-        <img src={blog?.img} class="max-w-md rounded-lg shadow-2xl" />
+        <img src={blog?.img} class=" rounded-lg shadow-2xl" />
         <div className=' text-center'>
           <h1 class="text-5xl font-bold">{blog?.headline}</h1>
           <p class="py-6">{blog?.des}</p>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Reviews = () => {
   return (
-    <div className="grid lg:grid-cols-3 mx-20 my-20 gap-3">
+    <div className="grid lg:grid-cols-3 lg:mx-20 mx-8 my-20 gap-3">
       <div class="card  bg-base-100 shadow-xl">
         <div class="flex justify-center items-center">
           <div class="avatar online">
