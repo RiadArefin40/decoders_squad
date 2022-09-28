@@ -10,14 +10,13 @@ const Navbar = () => {
       </label>
       <ul tabindex="0" className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
       <Link to="/home"><li><a>Home</a></li></Link>
-       
-      
-        <Link to="/blogs"><li><a>Blog</a></li></Link>
+      <Link to="/products"><li><a>Products</a></li></Link>
+      <Link to="/blogs"><li><a>Blog</a></li></Link>
       </ul>
     </div>
    
     <Link to="/home"> <a className="btn btn-ghost normal-case text-xl "> 
-    <img className='w-28 h-16' src="https://i.ibb.co/35bVNKm/Decoders-Squad-logo-1.png" alt="" />
+    <img className='w-20 h-16' src="https://i.ibb.co/35bVNKm/Decoders-Squad-logo-1.png" alt="" />
     
     
      </a></Link>
@@ -25,9 +24,10 @@ const Navbar = () => {
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal  font-bold text-lg  text-teal-700">
       <Link to="/home"><li><a>Home</a></li></Link>
-      <li><a>About Us</a></li>
+      <Link to="/products"><li><a>Products</a></li></Link>
+    
       <Link to="/blogs"><li><a>Blog</a></li></Link>
-      <Link to="/blog"><li><a>Products</a></li></Link>
+      <li><a>About Us</a></li>
   
      
     </ul>

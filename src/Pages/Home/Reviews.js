@@ -7,7 +7,7 @@ const Reviews = () => {
         <div class="flex justify-center items-center">
           <div class="avatar online">
             <div class="w-24 rounded-full">
-              <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/273532394_4794865383926229_5910255477907281623_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=If1jgFMQ_ucAX_j6A1r&_nc_ht=scontent.fdac138-1.fna&oh=00_AT_CiCorak1Di-ioaAP6FTOrzfV-QnOlq3U1LDvmwhEW1w&oe=63054CAC" />
+              <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/273532394_4794865383926229_5910255477907281623_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c9JuBLg69IYAX9eLxfF&_nc_ht=scontent.fdac138-1.fna&oh=00_AT-HBonfd6149vIuhrusPJTDzeZTCBSmkdTISRNEV_gvxQ&oe=6338B72C" />
             </div>
           </div>
           <h1 className="text-xl ml-5"> Mostofa Riad</h1>
@@ -54,7 +54,7 @@ const Reviews = () => {
         <div class="flex justify-center items-center">
           <div class="avatar online">
             <div class="w-24 rounded-full">
-              <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/300340069_3266723523645745_7248368037520724702_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=JbhCU-9NuokAX_YXwoF&_nc_ht=scontent.fdac138-1.fna&oh=00_AT_tC717LcV7ctTm6UbUyrFTS0EvvTnXdhoMwOdL3eiD2A&oe=63049F5C" />
+              <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/278386371_3279202092348776_4459381580689028128_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=NjmNkO-249cAX9GhEd8&tn=buMEXxSR3bfCjH2q&_nc_ht=scontent.fdac138-1.fna&oh=00_AT9VFN69qbScgPgFa9XpGVdMGe3g9Xj3C-EpNsHxHDSYwg&oe=6339793E" />
             </div>
           </div>
           <h1 className="text-xl ml-5"> Foysal Ahmed</h1>
@@ -101,7 +101,7 @@ const Reviews = () => {
         <div class="flex justify-center items-center">
           <div class="avatar online">
             <div class="w-24 rounded-full">
-              <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/275728560_2927001014267129_6120624909408978306_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yAYZaaUAfOMAX-nYNwY&_nc_ht=scontent.fdac138-1.fna&oh=00_AT-cbzkG_x_mCdAbnwN52mgkgfMZkJbqPctmmvaMpmw0Hw&oe=63038B1E" />
+              <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-1/275728560_2927001014267129_6120624909408978306_n.jpg?stp=c0.90.160.160a_dst-jpg_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_ohc=mifNHk43fbkAX8OxlZf&_nc_ht=scontent.fdac138-1.fna&oh=00_AT-3XHOXLIV8kV6hxhvUuSBciKgoPGMWTvQRWN9ptErrlw&oe=63386560" />
             </div>
           </div>
           <h1 className="text-xl ml-5"> Rahul Reza</h1>
